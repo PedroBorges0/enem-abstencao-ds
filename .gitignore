@@ -1,0 +1,23 @@
+# Dados brutos (arquivos grandes demais para o Git)
+data/raw/
+*.csv
+*.CSV
+
+# Arquivos de ambiente Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Modelos treinados
+*.pkl
+*.joblib
+*.h5
