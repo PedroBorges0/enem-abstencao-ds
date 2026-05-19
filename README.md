@@ -4,9 +4,8 @@
 Prof. Dr. Eduardo Pena
 
 ## Integrantes
-- [Nome 1]
-- [Nome 2]
-- [Nome 3]
+- Pedro Borges De Araujo
+
 
 ## Problema
 
@@ -14,38 +13,6 @@ Aproximadamente 32% dos inscritos no ENEM 2023 não compareceram ao segundo dia 
 (Ciências da Natureza e Matemática), representando mais de 1,25 milhão de candidatos.
 Este projeto constrói um **classificador de risco de abandono** para candidatos que
 compareceram ao primeiro dia, usando variáveis socioeconômicas, escolares e geográficas.
-
-## Estrutura do Repositório
-
-```
-enem-abstencao-ds/
-│
-├── data/
-│   ├── raw/            # Dados brutos (não versionados — ver .gitignore)
-│   ├── processed/      # Dados limpos e prontos para análise
-│   └── external/       # Fontes externas: IDHM, Censo Escolar
-│
-├── notebooks/
-│   ├── etapa2_integracao_limpeza.ipynb
-│   ├── etapa3_eda_sql.ipynb
-│   └── etapa4_modelagem.ipynb
-│
-├── src/
-│   ├── data/           # Scripts de download e integração
-│   ├── features/       # Feature engineering
-│   ├── models/         # Treinamento e avaliação
-│   └── visualization/  # Geração de gráficos
-│
-├── reports/
-│   ├── figures/        # Gráficos exportados
-│   └── relatorio_final.pdf
-│
-├── docs/               # Entregáveis em PDF por etapa
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
 
 ## Datasets
 
