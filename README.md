@@ -43,7 +43,7 @@ jupyter notebook notebooks/
 | Etapa | Descrição | Status |
 |---|---|---|
 | 1 | Definição do problema | Entregue |
-| 2 | Integração e limpeza de dados | Em andamento |
-| 3 | EDA e consultas SQL | Pendente |
-| 4 | Modelagem com ML | Pendente |
+| 2 | Integração e limpeza de dados | Entregue |
+| 3 | EDA e consultas SQL | Entregue |
+| 4 | Modelagem com ML | Entregue |
 | 5 | Relatório e apresentação | Pendente |
